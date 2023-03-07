@@ -88,3 +88,9 @@ Afterwards continue setting up osTicket in the browser (click continue) then you
 
 <img src="https://i.imgur.com/RmVk3q5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>                                                                                                
                                                                                                                                                        
+<p>Continue Setting up osticket in the browser MySQL Database: osTicket MySQL Username: root MySQL Password: Password1 Click “Install Now!”
+Congratulations, hopefully it is installed with no errors!
+Clean up
+Delete: C:\inetpub\wwwroot\osTicket\setup
+Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)                                                                                                
