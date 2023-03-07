@@ -60,3 +60,11 @@ Once you have installed Web Installer Platform open it. From inside the applicat
                                                            
 <img src="https://i.imgur.com/TUGiSKi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>                                                          
                                                                                                  
+
+                                                                                                 
+Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.                                                                                                
+       
+                                                                                                                                
+<img src="https://i.imgur.com/4AkTkV0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />                                                                                                                                
+                                                                                                                                                       
