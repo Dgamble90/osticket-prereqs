@@ -83,3 +83,8 @@ New Permissions->Everyone->all
 <img src="https://i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
                                                                                                  
                                                                                                  
+
+Afterwards continue setting up osTicket in the browser (click continue) then you will name the Helpdesk to your liking. Select a default email that will receive emails from customers who submit tickets.
+
+<img src="https://i.imgur.com/RmVk3q5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>                                                                                                
+                                                                                                                                                       
