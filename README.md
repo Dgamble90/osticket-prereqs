@@ -73,3 +73,13 @@ Open IIS Manager and restart the server. Once inside IIS manager go to Sites->De
 Go back into IIS manager and enable some extensions. To do this you have to go to Sites->Default->osTicket
 Then double click on PHP manager. Click on "Disable or enable an extension" Enable "php_intl.dll" & "php_opcache.dll" then refresh the osTicket webserver and obsereve the changes "Intl Extension" should now be enabled. 
 <img src="https://i.imgur.com/APZgUTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+                                                                                                 
+                                                                                                 
+Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php
+Assign permissions to ost-config.php Disable inheritance->Removeall
+New Permissions->Everyone->all   
+                                                                                                 
+<img src="https://i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+                                                                                                 
+                                                                                                 
